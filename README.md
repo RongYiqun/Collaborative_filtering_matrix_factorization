@@ -1,2 +1,2 @@
 # Collaborative_filtering_matrix_factorization
-recommendation by collaborative_filtering and matrix_factorization
+recommendation by collaborative_filtering and matrix_factorisation
