@@ -1,5 +1,4 @@
-# Collaborative_filtering_matrix_factorization
-recommendation by collaborative_filtering and matrix_factorisation
+# Collaborative filtering and matrix factorization for product recommendation 
 
 Problem: predict movie ratings on the MovieLens Data Sets: http://www.grouplens.org/node/73
 
